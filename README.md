@@ -5,10 +5,11 @@ Your task is to fix that issues, or maybe add the required functionality.
 
 ### Prerequisites
 * Install UnityHub
-* Install Unity version 2020.3.* (better to be 2020.3.12f1 or similar)
+* Install Unity version 2021.3.2f1
 * Install VisualStudio Or Rider
 * Download the project from this repository
 * Open it from Unity
+* Go to Scenes folder and double click on "ExamScene"
 
 Now you can start and explore the project
 
