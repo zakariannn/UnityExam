@@ -8,7 +8,7 @@ Your task is to fix that issues, or maybe add the required functionality.
 * Install Unity version 2021.3.2f1
 * Install VisualStudio Or Rider
 * Download the project from this repository
-* Open it from Unity
+* Open it from Unity (UnityHub->Add(Open) Project)
 * Go to Scenes folder and double click on "ExamScene"
 
 Now you can start and explore the project
