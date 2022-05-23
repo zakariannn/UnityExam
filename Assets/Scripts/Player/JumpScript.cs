@@ -15,7 +15,7 @@ namespace Player {
             if (canJump && Input.GetKeyDown(KeyCode.UpArrow)) {
                 // Apply an instantaneous upwards force
                 rigidbody2D.AddForce(Vector2.up * 10f, ForceMode2D.Impulse);
-                canJump = false;
+                canJump = true;
                 animationController.Jump();
             }
         }
